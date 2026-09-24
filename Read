@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bull-33 Hub | Unblocked</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { background-color: #0b0c10; color: #c5c6c7; font-family: -apple-system, system-ui, sans-serif; padding: 25px; text-align: center; }
+        header { margin-bottom: 35px; }
+        h1 { color: #66fcf1; font-size: 2.2rem; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 8px; }
+        p { color: #45f3ff; font-size: 0.9rem; opacity: 0.8; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 15px; max-width: 600px; margin: 0 auto; }
+        .btn { background: #1f2833; border: 2px solid #45f3ff; border-radius: 10px; color: #fff; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 95px; padding: 10px; text-decoration: none; font-weight: bold; font-size: 1rem; transition: 0.2s; }
+        .btn:active { transform: scale(0.95); background: #45f3ff; color: #0b0c10; }
+        .emoji { font-size: 1.8rem; margin-bottom: 5px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>BULL-33 NETWORK</h1>
+        <p>Enlaces espejo y juegos activos</p>
+    </header>
+    <div class="grid">
+        <!-- Reemplaza el '#' por los enlaces reales de tus juegos o proxies -->
+        <a href="#" class="btn"><span class="emoji">🛡️</span>Proxy 1</a>
+        <a href="#" class="btn"><span class="emoji">⚡</span>Proxy 2</a>
+        <a href="#" class="btn"><span class="emoji">🏎️</span>Slope</a>
+        <a href="#" class="btn"><span class="emoji">🏹</span>1v1.LOL</a>
+        <a href="#" class="btn"><span class="emoji">🕹️</span>Retro Games</a>
+        <a href="#" class="btn"><span class="emoji">🔍</span>Google</a>
+    </div>
+</body>
+</html>
